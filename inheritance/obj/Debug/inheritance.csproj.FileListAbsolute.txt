@@ -1,0 +1,16 @@
+C:\Users\HUAWEI\source\repos\inheritance\inheritance\bin\Debug\inheritance.exe.config
+C:\Users\HUAWEI\source\repos\inheritance\inheritance\bin\Debug\inheritance.exe
+C:\Users\HUAWEI\source\repos\inheritance\inheritance\bin\Debug\inheritance.pdb
+C:\Users\HUAWEI\source\repos\inheritance\inheritance\obj\Debug\inheritance.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\source\repos\inheritance\inheritance\obj\Debug\inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\HUAWEI\source\repos\inheritance\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\inheritance\inheritance\obj\Debug\inheritance.exe
+C:\Users\HUAWEI\source\repos\inheritance\inheritance\obj\Debug\inheritance.pdb
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\inheritance\inheritance\bin\Debug\inheritance.exe.config
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\inheritance\inheritance\bin\Debug\inheritance.exe
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\inheritance\inheritance\bin\Debug\inheritance.pdb
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\inheritance\inheritance\obj\Debug\inheritance.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\inheritance\inheritance\obj\Debug\inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\inheritance\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\inheritance\inheritance\obj\Debug\inheritance.exe
+C:\Users\HUAWEI\Desktop\REA Çalışmalar\inheritance\inheritance\obj\Debug\inheritance.pdb

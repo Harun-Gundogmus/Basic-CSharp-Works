@@ -1,0 +1,8 @@
+C:\Users\HUAWEI\source\repos\inheritance\CokBicimlilik\bin\Debug\CokBicimlilik.exe.config
+C:\Users\HUAWEI\source\repos\inheritance\CokBicimlilik\bin\Debug\CokBicimlilik.exe
+C:\Users\HUAWEI\source\repos\inheritance\CokBicimlilik\bin\Debug\CokBicimlilik.pdb
+C:\Users\HUAWEI\source\repos\inheritance\CokBicimlilik\obj\Debug\CokBicimlilik.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\source\repos\inheritance\CokBicimlilik\obj\Debug\CokBicimlilik.csproj.SuggestedBindingRedirects.cache
+C:\Users\HUAWEI\source\repos\inheritance\CokBicimlilik\obj\Debug\CokBicimlilik.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\inheritance\CokBicimlilik\obj\Debug\CokBicimlilik.exe
+C:\Users\HUAWEI\source\repos\inheritance\CokBicimlilik\obj\Debug\CokBicimlilik.pdb
